@@ -1,21 +1,44 @@
-## Olá sou o Luiz Lennon 💻♥️
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lennonsjm/)[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-lennon-192585234/)
-
-
-![Luiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=lennonsjm1&show_icons=true&theme=dracula)
+<h1 align=center>🚀Hey Everyone 👋, I'm Luiz Lennon</h1>
 
 
 
+<h3 align=center>Sobre Mim</h3> 
+  
+💥 Apaixonado por Tecnologia, sou do Brasil e moro no Rio de Janeiro. Estudante de Análise e Desenvolvimento de Sistemas na Universidade Veigar de Almeida
+</div>
 
-<div stle="display inline_block"><br/>
-    <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-    
-</div><br/>
+<h3 align=center>About</h3> 
+💥 Passionate about technology, I'm from Brazil and live in Rio de Janeiro. I'm studying Systems Analysis and Development at the Veigar de Almeida University.
+</div>
 
-## 
+<h3 align=center>📱 Redes sociais / Social media </h3>
 
+<div align="center">
+  
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-lennon/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lennon.dev01@gmail.com)
+</div>
 
+<h3 align=center>⚒️ Hardskills</h3> 
+
+<div align="center">
+
+![Pyton](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+</div>
+
+<h2 align="center"> 📖 Cursos e Bootcamps </h2>
+
+<div align="center">
+• Vivo Bootcamp 2024
+  
+• Santander Bootcamp 2024
+</div>
+
+<h3 align=center>📋 Github Stats</h3> 
+
+<div align="center">
+  
+![Luiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=lennonsjm1&show_icons=true&theme=onedark)
+</div>
